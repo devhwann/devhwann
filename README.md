@@ -1,6 +1,6 @@
 
-   
-# Hello, I'm Jihwan Heo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+# Hello, I'm Jihwan Heo
 
 I study to become a software engineer that develops day by day. And I love to share my experiences and knowledge.
 
