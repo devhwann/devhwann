@@ -1,6 +1,6 @@
 
 
-# Hello, I'm Jihwan Heo
+# Hello, I'm Jihwan
 
 I study to become a software engineer that develops day by day. And I love to share my experiences and knowledge.
 
