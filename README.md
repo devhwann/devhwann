@@ -23,7 +23,7 @@ I study to become a software engineer that develops day by day. And I love to sh
 
 ## 🔗 Find Me Elsewhere 
 
-- **Contact** : incHwan@gmail.com
+- **Contact** : jihwan.heo1004@gmail.com
 - **Blog** : https://devhwan.me
 
 
