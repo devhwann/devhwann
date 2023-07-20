@@ -4,7 +4,7 @@
 #
 Interested in Software Engineeing, Web/Mobile(FE), UI/UX
 
-### 🛠 Tech Stack 
+#### 🛠 Tech Stack 
 
  
 ![JavaScript](https://img.shields.io/badge/Javascript-%2320232a.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
