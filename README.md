@@ -1,5 +1,5 @@
+###  
 
-## About Me  
 I love turning ideas into interactive web experiences.  
 Still learning, still growing, and always curious about new things.
 
